@@ -1,6 +1,6 @@
 # VirusScrapper
 
-Get regions info from oficial spanish government website
+Get current Covid-19 world situation from [![Worldometers](https://www.worldometers.info/coronavirus/)](https://www.worldometers.info/coronavirus/)
 
 ## How to launch
 1. Clone repository
