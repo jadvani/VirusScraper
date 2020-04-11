@@ -3,7 +3,7 @@
 ![Covid](https://github.com/jadvani/VirusScrapper/blob/master/covid.jpg)
 
 
-Scrap current Covid-19 world situation from [Worldometers](https://www.worldometers.info/coronavirus/) or the Spanish Government Covid-19 official [website](https://covid19.isciii.es/), and send all the information obtained by email. 
+### Scrap current Covid-19 world situation from [Worldometers](https://www.worldometers.info/coronavirus/) or the Spanish Government Covid-19 official [website](https://covid19.isciii.es/), and send all the information obtained by email. 
 
 ## How to launch
 1. Clone this repository.
