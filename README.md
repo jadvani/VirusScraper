@@ -1,6 +1,6 @@
 # VirusScrapper
 
-Scrap current Covid-19 world situation from [Worldometers](https://www.worldometers.info/coronavirus/) and [Spanish Government Covid-19 website](https://covid19.isciii.es/) 
+Scrap current Covid-19 world situation from [Worldometers](https://www.worldometers.info/coronavirus/) and Spanish Government official [website](https://covid19.isciii.es/) 
 
 ## How to launch
 1. Clone repository
