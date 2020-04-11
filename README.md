@@ -1,6 +1,6 @@
 # VirusScrapper
 
-Get current Covid-19 world situation from [![Worldometers](https://www.worldometers.info/coronavirus/)]
+Get current Covid-19 world situation from [Worldometers](https://www.worldometers.info/coronavirus/)
 
 ## How to launch
 1. Clone repository
