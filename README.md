@@ -20,6 +20,6 @@
 ## Remember to enable Third-Party Mail Clients in Gmail settings
 Inside "MyAccount" > "Sign-in & security" > "Connected apps & sites" > "Allow less secure apps"
 
-Mre info here: https://www.arclab.com/en/kb/email/how-to-enable-imap-pop3-smtp-gmail-account.html
+More info here: https://www.arclab.com/en/kb/email/how-to-enable-imap-pop3-smtp-gmail-account.html
 
 Note: if you copy and paste all the code in a .py extension file, you can manage your cronjobs to run the script periodically. I currently do this using a Google Cloud VM Instance.
