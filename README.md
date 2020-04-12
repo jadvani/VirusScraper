@@ -5,7 +5,7 @@
 
 ### Scrap current Covid-19 world situation from [Worldometers](https://www.worldometers.info/coronavirus/) or the Spanish Government Covid-19 official [website](https://covid19.isciii.es/), and send all the information obtained by email. 
 
-## How to launch
+## How to run the code
 1. Clone this repository.
 2. Open VirusScrapper.ipynb using Jupyter Notebook or Google Colab. 
 3. Setup your Gmail parameters. Change *** with your personal account information (sender email + correspondent password, receiver email).
@@ -15,7 +15,7 @@
     msg['From'] = '***'	
     msg['To'] = '***'
     ```
-4. Run the code!
+4. Execute
 
 ## Remember to enable Third-Party Mail Clients in Gmail settings
 Inside "MyAccount" > "Sign-in & security" > "Connected apps & sites" > "Allow less secure apps"
