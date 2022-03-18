@@ -1,4 +1,4 @@
-# VirusScrapper
+# VirusScraper
 
 ![Covid](https://github.com/jadvani/VirusScrapper/blob/master/covid.jpg)
 
